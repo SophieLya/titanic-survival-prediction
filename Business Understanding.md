@@ -28,10 +28,10 @@ Hasil model ini dapat membantu perusahaan pelayaran dalam menyusun strategi evak
 
 # ✅ Produce Project Plan
 ## 1. Teknologi & Tools yang Digunakan
-Bahasa Pemrograman: **Python**
-IDE: **Jupyter Notebook**
-Library untuk Analisis dan Visualisasi Data: **Pandas, NumPy, Matplotlib, Seaborn**
-Library untuk Pemodelan dan Machine Learning: **Scikit-learn**
+- Bahasa Pemrograman: **Python**
+- IDE: **Jupyter Notebook**
+- Library untuk Analisis dan Visualisasi Data: **Pandas, NumPy, Matplotlib, Seaborn**
+- Library untuk Pemodelan dan Machine Learning: **Scikit-learn**
 
  ## 2. Rencana Tiap Fase Proyek
 1. **Business Understanding** ✅
